@@ -1,1 +1,1 @@
-### Hi there, I'm (Yashraj)[https:/yashraj-narke.cf/]- aka BrutaL
+### Hi there, I'm [Yashraj](https:/yashraj-narke.cf/)- aka BrutaL

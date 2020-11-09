@@ -54,6 +54,6 @@
 
 
 <details>
-<sumary> : zap : Github Stats </summary>
+<sumary> :zap: Github Stats </summary>
 
 <img align="left" alt   ="PlayCosi" src="https://github-readme-stats.vercel.app/api?username=PlayCosiYT" />

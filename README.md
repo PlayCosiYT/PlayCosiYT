@@ -4,7 +4,7 @@
 
  - Currently Working on a Open Source Project 😎
  - I’m currently learning everything 🤣
- - My 2020 Goals: Contribute more to Open Source projects with team 🌳
+ - My 2021 Goals: Contribute more to Open Source projects with team 🌳
  - Fun Fact: I love to play Cricket 🏏
 
  ### Get in Touch

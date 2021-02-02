@@ -1,6 +1,6 @@
 ### Hi there, I'm [Yashraj](http://yashraj-narke.cf/)- aka [BrutaL](https://discord.bio/p/brutal)
 
-## I'm a Programmer, Student and a Gamer
+## I'm a Programmerand Student
 
  - Currently Working on a Open Source Project 😎
  - I’m currently learning everything 🤣
